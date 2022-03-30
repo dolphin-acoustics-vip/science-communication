@@ -1,0 +1,5 @@
+This code was written to provide an interactive display for attendees at the 2022 University of St Andrews Vertically Integrated Project (VIP) conference. 
+It shows species classifications of live audio input, thus giving an idea of which dolphin species most resembles someone's vocalizations. 
+While a real machine learning model is being used for the classifications, the key aim of this is to foster engagement and understanding about our academic work, not to ensure very accurate results.
+
+Credit for the background image used in this display goes to Jonathan Borba (original image can be obtained at https://unsplash.com/photos/3o5oUjrD90w).  
