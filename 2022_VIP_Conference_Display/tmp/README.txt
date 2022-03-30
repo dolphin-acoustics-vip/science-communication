@@ -1,0 +1,1 @@
+This directory is meant solely for temporary files during the code's execution.
