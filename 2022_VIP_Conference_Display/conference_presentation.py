@@ -149,7 +149,7 @@ def main():
     # initailize machine learning model
     directory_name = "./"
     model = tf.keras.models.load_model(
-        directory_name + "transfer_learning_classifier_fine_tuned_improved.h5")
+        directory_name + "2022_02_18_transfer_learning_classifier_fine_tuned_improved.h5")
 
     # create root of tkinter GUI
     root = Tk()
